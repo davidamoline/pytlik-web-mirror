@@ -1,0 +1,4 @@
+# DMCA-resilience backup mirror — not for indexing
+# Primary site is at the production domain.
+User-agent: *
+Disallow: /
